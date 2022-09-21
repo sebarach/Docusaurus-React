@@ -9,7 +9,7 @@ const config = {
   title: 'Aprendiendo Roadmap React',
   tagline: '',
   url: 'https://sebarach.github.io',
-  baseUrl: '/',
+  baseUrl: '/Docusaurus-React/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -17,7 +17,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'sebarach.github.io', // Usually your GitHub org/user name.
+  organizationName: 'sebarach', // Usually your GitHub org/user name.
   projectName: 'Docusaurus-React', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
