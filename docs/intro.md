@@ -48,4 +48,42 @@ GIT_USER=sebarach yarn deploy
   baseUrl: '/Docusaurus-React/',
   trailingSlash: false,
 ```
+---
 
+## Ejemplo de Markdown Pretier
+
+:::note
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::tip
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::info
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::caution
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::danger
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::note Your Title
+
+Some **content** with _Markdown_ `syntax`.
+
+:::
